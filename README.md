@@ -38,6 +38,4 @@ Carry = A & B
 - ModelSim
 - Icarus Verilog
 
-## Author
-
-Your Name
+##author
